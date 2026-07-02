@@ -42,6 +42,10 @@ Churches, civic groups, school groups, clubs, and small non-profits that manage 
 
 Homeowners, rental-property owners, and pool owners who want proactive monitoring, alerts, and support without becoming automation experts.
 
+### Relationship-Focused Customers
+
+People who want help maintaining friendships, family ties, professional relationships, donor relationships, volunteer relationships, and other important personal or community connections.
+
 ## Offering Pillars
 
 ### 1. Life Event Hub
@@ -76,7 +80,17 @@ Core value:
 
 - Watch products, supplies, seasonal inventory, event materials, home equipment, pool supplies, and other customer-defined items.
 
-### 5. Concierge Setup
+### 5. Personal CRM
+
+Relationship support for friends, family, customers, donors, volunteers, and professional contacts.
+
+Core value:
+
+- Remember birthdays, anniversaries, milestones, last-contact dates, key talking points, promises made, follow-up timing, and thoughtful reasons to reach out.
+- Generate automated touchpoint reminders without making relationships feel transactional.
+- Help households, small businesses, and non-profits maintain meaningful connection over time.
+
+### 6. Concierge Setup
 
 High-touch setup and support for customers who want help configuring offerings, devices, lists, and workflows.
 
@@ -95,6 +109,7 @@ Core value:
 | Home + Pool | Home dashboard plus pool monitoring | Higher-value property tier |
 | Event Pro | Life Event Hub for planners, businesses, or non-profits | Higher workflow depth |
 | Watcher | Product and deal tracking | Per-watchlist or category-based |
+| Relationship | Personal CRM touchpoints, reminders, and key talking points | Families, professionals, small businesses, non-profits |
 | Concierge | Setup help and premium support | Setup fee plus monthly support |
 
 ### Additional Revenue
@@ -103,6 +118,7 @@ Core value:
 - Custom dashboard setup
 - Device onboarding
 - Event templates
+- Personal CRM imports and relationship setup
 - Vendor referral revenue
 - Premium alerts
 - Sponsored vendor placements, later and only if trust is protected
@@ -149,6 +165,7 @@ Primary message:
 Supporting messages:
 
 - Plan the event. Watch the home. Track the deal. Know what needs attention.
+- Remember the birthday. Follow up thoughtfully. Keep the relationship warm.
 - Built for households, small businesses, and non-profits that do not have time to manage five disconnected systems.
 - AI-powered help for real-life operations, not another app to babysit.
 - Start with one problem. Grow into the right solution when you are ready.
@@ -156,7 +173,7 @@ Supporting messages:
 ## First Website Goals
 
 - Make the vision understandable in under 30 seconds.
-- Show the first four possible offerings clearly.
+- Show the first major possible offerings clearly.
 - Give early prospects a way to ask for pilot access.
 - Make the brand look real enough for conversations, but not overpromise features that are not built yet.
 
