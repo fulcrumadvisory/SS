@@ -4,6 +4,10 @@ Public website and growth home for Savor and Simplify Marketing LLC.
 
 This site is designed to start as a static GitHub Pages website and grow into a subscription platform as the product matures.
 
+GitHub repo: https://github.com/davidleetaylor07/SS
+
+Expected GitHub Pages URL: https://davidleetaylor07.github.io/SS/
+
 ## Current Purpose
 
 - Explain the Savor & Simplify vision
@@ -22,4 +26,3 @@ This site is designed to start as a static GitHub Pages website and grow into a 
 ## Hosting Recommendation
 
 Start on GitHub Pages while the site is marketing-led and mostly static. Move app functions to Azure when the platform needs subscriber accounts, payments, databases, background jobs, private dashboards, or API integrations.
-
