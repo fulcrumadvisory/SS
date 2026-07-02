@@ -20,6 +20,10 @@ Plain-language promise:
 
 > Practical solutions for real life, built to reduce friction without adding another system to babysit.
 
+Tagline:
+
+> Managing moments.
+
 ## Target Customers
 
 ### Households
@@ -161,6 +165,10 @@ Core value:
 Primary message:
 
 > Life has too many moving parts. Savor & Simplify brings them into one calm place.
+
+Tagline:
+
+> Managing moments.
 
 Supporting messages:
 

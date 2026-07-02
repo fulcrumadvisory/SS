@@ -4,6 +4,8 @@ Public website and growth home for the Savor & Simplify brand under Savor and Si
 
 This site is designed to start as a static GitHub Pages website and grow as the brand develops multiple offerings and solutions.
 
+Tagline: Managing moments.
+
 GitHub repo: https://github.com/fulcrumadvisory/SS
 
 GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
