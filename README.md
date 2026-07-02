@@ -24,6 +24,7 @@ GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
 - Pool Monitoring
 - Price Watcher
 - Personal CRM
+- Legacy and media continuity
 - Concierge setup and support
 
 ## Hosting Recommendation

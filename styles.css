@@ -239,7 +239,8 @@ h3 {
 }
 
 .module-grid,
-.proof-grid {
+.proof-grid,
+.lifecycle-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 16px;
@@ -251,6 +252,7 @@ h3 {
 
 .module-card,
 .proof-grid > div,
+.lifecycle-grid > div,
 .timeline-item,
 .contact-form {
   background: var(--panel);
@@ -262,6 +264,26 @@ h3 {
 .module-card {
   min-height: 270px;
   padding: 22px;
+}
+
+.lifecycle {
+  background: #fbfaf6;
+}
+
+.lifecycle-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.lifecycle-grid > div {
+  min-height: 230px;
+  padding: 22px;
+}
+
+.lifecycle-grid span {
+  display: block;
+  margin-bottom: 28px;
+  color: var(--gold);
+  font-weight: 900;
 }
 
 .module-number {
@@ -379,6 +401,7 @@ textarea {
   }
 
   .module-grid,
+  .lifecycle-grid,
   .timeline {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -417,6 +440,7 @@ textarea {
   }
 
   .module-grid,
+  .lifecycle-grid,
   .timeline,
   .hero-panel {
     grid-template-columns: 1fr;

@@ -38,11 +38,45 @@ Subscription-fatigue angle:
 
 > Stop paying $5, $10, or $20 a month for disconnected apps that solve one slice of life and do not carry you into the next event, task, relationship, season, or decision.
 
+## Human Life Cycle Lens
+
+Savor & Simplify should be organized around the human life cycle, not around software categories.
+
+People move through moments:
+
+- graduate college
+- start careers
+- get married
+- buy a house
+- have a baby
+- host birthdays and family events
+- maintain the home
+- automate the home
+- care for family members
+- serve in businesses, churches, schools, clubs, and non-profits
+- preserve memories, media, lessons learned, and family knowledge
+- pass wisdom and practical information to the next generation
+
+Most apps solve only one slice of one phase. Savor & Simplify can create continuity across phases. The relationship, home, event, document, media, reminder, vendor, and decision history should not disappear every time life moves to the next moment.
+
+Legacy matters. The brand should eventually support:
+
+- media retention and organization
+- family notes and stories
+- lessons learned
+- household knowledge
+- vendor and maintenance history
+- important documents and wishes
+- relationship history and meaningful dates
+- guidance for children, grandchildren, caregivers, or successors
+
+This turns Savor & Simplify from a task tool into a continuity brand: managing moments across a lifetime.
+
 ## Target Customers
 
 ### Households
 
-Families managing homes, events, repairs, purchases, subscriptions, seasonal tasks, and aging-parent or child-related responsibilities.
+Families managing homes, events, repairs, purchases, subscriptions, seasonal tasks, aging-parent needs, child-related responsibilities, memories, and long-term family knowledge.
 
 ### Life Event Customers
 
@@ -108,7 +142,16 @@ Core value:
 - Generate automated touchpoint reminders without making relationships feel transactional.
 - Help households, small businesses, and non-profits maintain meaningful connection over time.
 
-### 6. Concierge Setup
+### 6. Legacy and Media Continuity
+
+Support for preserving the practical and emotional record of a family, household, business, or organization.
+
+Core value:
+
+- Organize photos, videos, stories, important notes, lessons learned, household knowledge, maintenance history, vendor history, and family decisions.
+- Help people pass useful context to the next generation instead of leaving scattered files, forgotten stories, and undocumented decisions.
+
+### 7. Concierge Setup
 
 High-touch setup and support for customers who want help configuring offerings, devices, lists, and workflows.
 
@@ -128,6 +171,7 @@ Core value:
 | Event Pro | Life Event Hub for planners, businesses, or non-profits | Higher workflow depth |
 | Watcher | Product and deal tracking | Per-watchlist or category-based |
 | Relationship | Personal CRM touchpoints, reminders, and key talking points | Families, professionals, small businesses, non-profits |
+| Legacy | Media, family notes, lessons learned, and continuity records | Families, caregivers, successors |
 | Concierge | Setup help and premium support | Setup fee plus monthly support |
 
 ### Additional Revenue
@@ -137,6 +181,7 @@ Core value:
 - Device onboarding
 - Event templates
 - Personal CRM imports and relationship setup
+- Legacy media and family knowledge organization
 - Vendor referral revenue
 - Premium alerts
 - Sponsored vendor placements, later and only if trust is protected
@@ -188,6 +233,7 @@ Supporting messages:
 
 - Plan the event. Watch the home. Track the deal. Know what needs attention.
 - Remember the birthday. Follow up thoughtfully. Keep the relationship warm.
+- Carry the story forward: photos, lessons, notes, history, and decisions for the next generation.
 - Your one source of truth for the moments, tasks, people, and decisions that do not fit neatly into one app.
 - Not a novelty assistant. A practical operating layer for real life.
 - Stop stacking small subscriptions for disconnected apps that do not move with you from one moment to the next.
