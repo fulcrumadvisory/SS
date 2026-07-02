@@ -30,9 +30,13 @@ Strategic positioning:
 
 Voice assistants are useful for timers, jokes, weather, smart-home commands, and ordering simple items. Savor & Simplify should be positioned differently: not as a novelty assistant, but as the operating layer for real-life coordination.
 
-Enterprise companies have systems like SAP, Oracle, Salesforce, and ServiceNow to coordinate customers, assets, orders, workflows, dates, and decisions. Households, small businesses, and non-profits have many of the same coordination problems, but they are usually spread across memory, inboxes, calendars, notes, disconnected apps, and informal conversations.
+Large organizations have systems of record to coordinate customers, assets, orders, workflows, dates, and decisions. Households, small businesses, and non-profits have many of the same coordination problems, but they are usually spread across memory, inboxes, calendars, notes, disconnected apps, and informal conversations.
 
 Savor & Simplify can become the approachable version of that idea for everyday life: practical, human, modular, and built around moments instead of corporate processes.
+
+Subscription-fatigue angle:
+
+> Stop paying $5, $10, or $20 a month for disconnected apps that solve one slice of life and do not carry you into the next event, task, relationship, season, or decision.
 
 ## Target Customers
 
@@ -186,6 +190,7 @@ Supporting messages:
 - Remember the birthday. Follow up thoughtfully. Keep the relationship warm.
 - Your one source of truth for the moments, tasks, people, and decisions that do not fit neatly into one app.
 - Not a novelty assistant. A practical operating layer for real life.
+- Stop stacking small subscriptions for disconnected apps that do not move with you from one moment to the next.
 - Built for households, small businesses, and non-profits that do not have time to manage five disconnected systems.
 - AI-powered help for real-life operations, not another app to babysit.
 - Start with one problem. Grow into the right solution when you are ready.
