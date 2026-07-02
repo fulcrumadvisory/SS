@@ -4,9 +4,9 @@ Public website and growth home for Savor and Simplify Marketing LLC.
 
 This site is designed to start as a static GitHub Pages website and grow into a subscription platform as the product matures.
 
-GitHub repo: https://github.com/davidleetaylor07/SS
+GitHub repo: https://github.com/fulcrumadvisory/SS
 
-Expected GitHub Pages URL: https://davidleetaylor07.github.io/SS/
+GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
 
 ## Current Purpose
 
