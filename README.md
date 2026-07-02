@@ -16,6 +16,7 @@ GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
 - Present the first possible offerings
 - Support early conversations with pilot customers
 - Document the business and marketing plan
+- Stress-test the idea against startup and investor expectations
 
 ## Possible Offerings
 
@@ -30,3 +31,8 @@ GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
 ## Hosting Recommendation
 
 Start on GitHub Pages while the site is marketing-led and mostly static. Move app functions to Azure when the platform needs subscriber accounts, payments, databases, background jobs, private dashboards, or API integrations.
+
+## Planning Docs
+
+- [Business and Marketing Plan](BUSINESS-MARKETING-PLAN.md)
+- [Startup and Investor Plan](STARTUP-INVESTOR-PLAN.md)
