@@ -1,8 +1,8 @@
 # Savor & Simplify Website
 
-Public website and growth home for Savor and Simplify Marketing LLC.
+Public website and growth home for the Savor & Simplify brand under Savor and Simplify Marketing LLC.
 
-This site is designed to start as a static GitHub Pages website and grow into a subscription platform as the product matures.
+This site is designed to start as a static GitHub Pages website and grow as the brand develops multiple offerings and solutions.
 
 GitHub repo: https://github.com/fulcrumadvisory/SS
 
@@ -10,12 +10,12 @@ GitHub Pages URL: https://fulcrumadvisory.github.io/SS/
 
 ## Current Purpose
 
-- Explain the Savor & Simplify vision
-- Present the first product modules
+- Explain the Savor & Simplify brand vision
+- Present the first possible offerings
 - Support early conversations with pilot customers
 - Document the business and marketing plan
 
-## Product Modules
+## Possible Offerings
 
 - Life Event Hub
 - Home Automation
